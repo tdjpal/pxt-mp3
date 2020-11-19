@@ -1,0 +1,18 @@
+{
+    "dfplayer|block": "MP3播放器",
+    "dfplayer.playType.type1|block": "播放",
+    "dfplayer.playType.type2|block": "停止播放",
+    "dfplayer.playType.type3|block": "播放下一首",
+    "dfplayer.playType.type4|block": "播放前一首",
+    "dfplayer.playType.type5|block": "暂停",
+    "dfplayer.yesOrNot.type1|block": "否",
+    "dfplayer.yesOrNot.type2|block": "是",
+    "dfplayer.MP3_setSerial|block": "设置DFPlayer mini RX引脚:%pinTX|TX引脚:%pinRX",
+    "dfplayer.MP3_serialReconnect|block": "DFPlayer mini重新连接",
+    "dfplayer.execute|block": "执行程序：%myType",
+    "dfplayer.setTracking|block": "指定播放歌曲，第%tracking|首，重复播放：%myAns",
+    "dfplayer.folderPlay|block": "指定播放文件夹中歌曲，文件夹：%folderNum|文件名：%fileNum|　重复播放：%myAns",
+    "dfplayer.setLoop|block": "循环播放TF卡中所有歌曲",
+    "dfplayer.setLoopFolder|block": "循环播放文件夹中歌曲，文件夹：%folderNum",
+    "dfplayer.setVolume|block": "设定音量大小(0~30)：%volume"
+}
