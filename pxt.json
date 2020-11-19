@@ -1,7 +1,7 @@
 {
     "name": "dfplayer",
     "version": "0.0.1",
-    "description": "這是DFPlayer mini的Makecode專用積木",
+    "description": "这是DFPlayer mini的Makecode专用积木",
     "license": "MIT",
     "dependencies": {
         "core": "*"
@@ -10,6 +10,7 @@
         "README.md",
         "main.ts",
         "_locales/zh-tw/dfplayer-strings.json",
+        "_locales/zh-cn/dfplayer-strings.json",
         "_locales/en/dfplayer-strings.json"
     ],
     "public": true
